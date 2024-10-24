@@ -25,6 +25,7 @@ return {
 				"svelte",
 				"vue",
 				"css",
+				"cpp",
 			},
 
 			-- matchup = {
